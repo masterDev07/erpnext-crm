@@ -14,7 +14,7 @@ cd ~/frappe-bench
 
 # 2. Add this custom application directory manually or clone via Git
 # (Make sure to run 'export UV_LINK_MODE=copy' if deploying on external file systems)
-bench get-app https://github.com
+bench get-app https://github.com/masterDev07/erpnext-crm.git
 
 # 3. Install the app onto your specific site
 bench --site cryocord.local install-app cryocord_crm
