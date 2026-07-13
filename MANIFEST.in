@@ -1,0 +1,1 @@
+recursive-include cryocord_crm *.json *.py *.js *.css *.png *.html *.txt
